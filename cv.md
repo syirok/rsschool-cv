@@ -16,7 +16,7 @@ Code exapmles you can find on my codewars
 I don't projects online yet
 
 ## Education:
-- 2007-2012 Technical Univercity, Civil engeeniring
+- 2007-2012 Technical Univercity, civil engineering
 - 2020 RSS school
 
 ## English: Upper-Intermediate
