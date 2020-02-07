@@ -3,7 +3,7 @@
 tel: +375(44)5758078 *phone, sms, viber, telegram* <br>
 e-mail: 5758078@mail.ru
 
-I am on my way to become a skillful Frontend developer, currently a student of RSS school. I am passionaly studying HTML, CSS, JS, creating my first projects
+I am on my way to become a skillful **Frontend developer**, currently a student of RSS school. I am passionaly studying HTML, CSS, JS, creating my first projects
 
 ## Skills:
 - HTML  ***
