@@ -1,0 +1,49 @@
+.wraper {
+    max-width: 1024px;
+    margin: auto;
+    /*border: 1px solid #000000;*/
+}
+
+hr {
+    width: 100vw;
+}
+
+img {
+    width: 50%;
+
+}
+
+.contact {
+    display: flex;
+}
+
+.skills {
+    width: 70%;
+    
+}
+
+.skills dd {
+    margin: 0;
+    margin-bottom: 10px;
+    background-color: #e8e8e8;
+  }
+  
+  .skills-level {
+    font-size: 12px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4470c4;
+    padding: 10px;
+  }
+  
+  .skills-level-ok {
+    background-color: #47bb52;
+  }
+
+  li {
+      padding: 10px;
+  }
+
+  footer {
+      font-size: 10px;
+  }
