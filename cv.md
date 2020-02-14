@@ -21,4 +21,4 @@ I don’t have projects online yet
 ## English: Upper-Intermediate
 - Writing
 - Reading
-- Fluent speaking
+- Fluent speaking on non-technical topic 
