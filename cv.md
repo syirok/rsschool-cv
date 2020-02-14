@@ -4,7 +4,7 @@
 phone number:+375(44)57-58-078 <br>
 *phone, viber, telegram*
 
- I am on my way to become a **skillful Frontend developer**, currently a student of RSS school. I am passionaly studying HTML, CSS, JS, creating my first projects
+ I am on my way to become a **skillful Frontend developer**, currently a student of RSS school. I am passionaly studying HTML, CSS, JS, creating my first project
 
 ## Skills
 - HTML ***
@@ -21,4 +21,4 @@ I don’t have projects online yet
 ## English: Upper-Intermediate
 - Writing
 - Reading
-- Fluent speaking on non-technical topic 
+- Fluent speaking on non-technical topics
